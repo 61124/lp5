@@ -106,5 +106,6 @@ int main() {
     return 0;
 }
 
-nvcc cuda_programs.cu -o cuda_programs
-./cuda_programs
+// commands
+// nvcc cuda_programs.cu -o cuda_programs
+// ./cuda_programs
